@@ -1,0 +1,338 @@
+[
+    {
+        "steps": [],
+        "total_time": 57.051499128341675,
+        "generate_time": 14.795482158660889,
+        "evaluate_time": 42.25449085235596,
+        "num_of_generations": 15,
+        "num_of_evaluations": 15,
+        "num_of_steps": 4,
+        "idx": 900,
+        "ys": [],
+        "infos": [],
+        "usage_so_far": {
+            "completion_tokens": 3416,
+            "prompt_tokens": 25582,
+            "cost": 0.017915
+        },
+        "sum(accs)": 0,
+        "cnt_avg": 0,
+        "cnt_any": 0
+    },
+    {
+        "steps": [],
+        "total_time": 62.46719169616699,
+        "generate_time": 20.546261310577393,
+        "evaluate_time": 41.919275760650635,
+        "num_of_generations": 18,
+        "num_of_evaluations": 18,
+        "num_of_steps": 4,
+        "idx": 901,
+        "ys": [],
+        "infos": [],
+        "usage_so_far": {
+            "completion_tokens": 7333,
+            "prompt_tokens": 53882,
+            "cost": 0.0379405
+        },
+        "sum(accs)": 0,
+        "cnt_avg": 0,
+        "cnt_any": 0
+    },
+    {
+        "steps": [],
+        "total_time": 38.33707404136658,
+        "generate_time": 12.867640256881714,
+        "evaluate_time": 25.42423701286316,
+        "num_of_generations": 8,
+        "num_of_evaluations": 8,
+        "num_of_steps": 4,
+        "idx": 902,
+        "ys": [
+            "11 - 5 = 6 (left: 2 6 8)\n6 / 2 = 3 (left: 3 8)\n3 * 8 = 24 (left: 24)\nAnswer: (11 - 5) / 2 * 8 = 24\n"
+        ],
+        "infos": [
+            {
+                "r": 1
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 9970,
+            "prompt_tokens": 71019,
+            "cost": 0.050464499999999995
+        },
+        "sum(accs)": 1,
+        "cnt_avg": 1.0,
+        "cnt_any": 1
+    },
+    {
+        "steps": [],
+        "total_time": 34.66935706138611,
+        "generate_time": 8.534215450286865,
+        "evaluate_time": 26.13210368156433,
+        "num_of_generations": 9,
+        "num_of_evaluations": 9,
+        "num_of_steps": 4,
+        "idx": 903,
+        "ys": [
+            "3 + 4 = 7 (left: 4 7 13)\n4 + 7 = 11 (left: 11 13)\n11 + 13 = 24 (left: 24)\nAnswer: ((3 + 4) + 4) + 13 = 24\n"
+        ],
+        "infos": [
+            {
+                "r": 1
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 12498,
+            "prompt_tokens": 86544,
+            "cost": 0.062019
+        },
+        "sum(accs)": 1,
+        "cnt_avg": 2.0,
+        "cnt_any": 2
+    },
+    {
+        "steps": [],
+        "total_time": 92.97877669334412,
+        "generate_time": 29.745537519454956,
+        "evaluate_time": 63.228736877441406,
+        "num_of_generations": 19,
+        "num_of_evaluations": 19,
+        "num_of_steps": 4,
+        "idx": 904,
+        "ys": [],
+        "infos": [],
+        "usage_so_far": {
+            "completion_tokens": 20739,
+            "prompt_tokens": 121799,
+            "cost": 0.092008
+        },
+        "sum(accs)": 0,
+        "cnt_avg": 2.0,
+        "cnt_any": 2
+    },
+    {
+        "steps": [],
+        "total_time": 35.29499793052673,
+        "generate_time": 9.615753412246704,
+        "evaluate_time": 25.67371106147766,
+        "num_of_generations": 10,
+        "num_of_evaluations": 10,
+        "num_of_steps": 4,
+        "idx": 905,
+        "ys": [
+            "13 - 11 = 2 (left: 1 11 2)\n1 + 11 = 12 (left: 2 12)\n2 * 12 = 24 (left: 24)\nAnswer: (1 + 11 - 13) * 11 = 24\n"
+        ],
+        "infos": [
+            {
+                "r": 0
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 23036,
+            "prompt_tokens": 140048,
+            "cost": 0.104578
+        },
+        "sum(accs)": 0,
+        "cnt_avg": 2.0,
+        "cnt_any": 2
+    },
+    {
+        "steps": [],
+        "total_time": 61.68839693069458,
+        "generate_time": 17.524487495422363,
+        "evaluate_time": 44.162100076675415,
+        "num_of_generations": 18,
+        "num_of_evaluations": 18,
+        "num_of_steps": 4,
+        "idx": 906,
+        "ys": [
+            "10 - 1 = 9 (left: 8 9 11)\n11 - 8 = 3 (left: 8 3)\n8 * 3 = 24 (left: 24)\nAnswer: 8 * (10 - 1) = 24\n"
+        ],
+        "infos": [
+            {
+                "r": 0
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 26895,
+            "prompt_tokens": 170129,
+            "cost": 0.125407
+        },
+        "sum(accs)": 0,
+        "cnt_avg": 2.0,
+        "cnt_any": 2
+    },
+    {
+        "steps": [],
+        "total_time": 82.91960024833679,
+        "generate_time": 20.65871524810791,
+        "evaluate_time": 62.259615659713745,
+        "num_of_generations": 18,
+        "num_of_evaluations": 18,
+        "num_of_steps": 4,
+        "idx": 907,
+        "ys": [],
+        "infos": [],
+        "usage_so_far": {
+            "completion_tokens": 32444,
+            "prompt_tokens": 207283,
+            "cost": 0.15230749999999998
+        },
+        "sum(accs)": 0,
+        "cnt_avg": 2.0,
+        "cnt_any": 2
+    },
+    {
+        "steps": [],
+        "total_time": 61.85035276412964,
+        "generate_time": 17.69768261909485,
+        "evaluate_time": 44.150537729263306,
+        "num_of_generations": 18,
+        "num_of_evaluations": 18,
+        "num_of_steps": 4,
+        "idx": 908,
+        "ys": [],
+        "infos": [],
+        "usage_so_far": {
+            "completion_tokens": 36393,
+            "prompt_tokens": 238565,
+            "cost": 0.173872
+        },
+        "sum(accs)": 0,
+        "cnt_avg": 2.0,
+        "cnt_any": 2
+    },
+    {
+        "steps": [],
+        "total_time": 57.54583406448364,
+        "generate_time": 14.324924945831299,
+        "evaluate_time": 43.21967792510986,
+        "num_of_generations": 16,
+        "num_of_evaluations": 16,
+        "num_of_steps": 4,
+        "idx": 909,
+        "ys": [
+            "7 - 3 = 4 (left: 3 4 12)\n4 * 3 = 12 (left: 12 12)\n12 + 12 = 24 (left: 24)\nAnswer: (7 - 3) * (3 * 4) = 24\n"
+        ],
+        "infos": [
+            {
+                "r": 0
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 39201,
+            "prompt_tokens": 262234,
+            "cost": 0.18991850000000002
+        },
+        "sum(accs)": 0,
+        "cnt_avg": 2.0,
+        "cnt_any": 2
+    },
+    {
+        "steps": [],
+        "total_time": 96.49024820327759,
+        "generate_time": 32.391433000564575,
+        "evaluate_time": 64.09370851516724,
+        "num_of_generations": 22,
+        "num_of_evaluations": 22,
+        "num_of_steps": 4,
+        "idx": 910,
+        "ys": [],
+        "infos": [],
+        "usage_so_far": {
+            "completion_tokens": 45239,
+            "prompt_tokens": 304210,
+            "cost": 0.21996349999999998
+        },
+        "sum(accs)": 0,
+        "cnt_avg": 2.0,
+        "cnt_any": 2
+    },
+    {
+        "steps": [],
+        "total_time": 17.390940189361572,
+        "generate_time": 4.070872783660889,
+        "evaluate_time": 13.29983925819397,
+        "num_of_generations": 4,
+        "num_of_evaluations": 4,
+        "num_of_steps": 4,
+        "idx": 911,
+        "ys": [
+            "1 + 2 = 3 (left: 3 8 13)\n3 + 8 = 11 (left: 11 13)\n11 + 13 = 24 (left: 24)\nAnswer: ((1 + 2) + 8) + 13 = 24\n"
+        ],
+        "infos": [
+            {
+                "r": 1
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 47109,
+            "prompt_tokens": 311833,
+            "cost": 0.22658
+        },
+        "sum(accs)": 1,
+        "cnt_avg": 3.0,
+        "cnt_any": 3
+    },
+    {
+        "steps": [],
+        "total_time": 54.1313271522522,
+        "generate_time": 17.102388858795166,
+        "evaluate_time": 37.02368950843811,
+        "num_of_generations": 17,
+        "num_of_evaluations": 17,
+        "num_of_steps": 4,
+        "idx": 912,
+        "ys": [],
+        "infos": [],
+        "usage_so_far": {
+            "completion_tokens": 50361,
+            "prompt_tokens": 339994,
+            "cost": 0.24553850000000002
+        },
+        "sum(accs)": 0,
+        "cnt_avg": 3.0,
+        "cnt_any": 3
+    },
+    {
+        "steps": [],
+        "total_time": 41.77480697631836,
+        "generate_time": 12.362210988998413,
+        "evaluate_time": 29.4118013381958,
+        "num_of_generations": 13,
+        "num_of_evaluations": 13,
+        "num_of_steps": 4,
+        "idx": 913,
+        "ys": [],
+        "infos": [],
+        "usage_so_far": {
+            "completion_tokens": 52936,
+            "prompt_tokens": 361156,
+            "cost": 0.259982
+        },
+        "sum(accs)": 0,
+        "cnt_avg": 3.0,
+        "cnt_any": 3
+    },
+    {
+        "steps": [],
+        "total_time": 58.896937131881714,
+        "generate_time": 18.011980772018433,
+        "evaluate_time": 40.88371157646179,
+        "num_of_generations": 15,
+        "num_of_evaluations": 15,
+        "num_of_steps": 4,
+        "idx": 914,
+        "ys": [],
+        "infos": [],
+        "usage_so_far": {
+            "completion_tokens": 56877,
+            "prompt_tokens": 387830,
+            "cost": 0.2792305
+        },
+        "sum(accs)": 0,
+        "cnt_avg": 3.0,
+        "cnt_any": 3
+    }
+]

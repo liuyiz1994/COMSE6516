@@ -1,0 +1,320 @@
+[
+    {
+        "steps": [],
+        "total_time": 245.47590804100037,
+        "generate_time": 14.736268997192383,
+        "evaluate_time": 230.72909808158875,
+        "num_of_generations": 5,
+        "num_of_evaluations": 5,
+        "num_of_steps": 4,
+        "idx": 900,
+        "ys": [
+            "5 * 6 = 30 (left: 4 10 30)\n30 - 10 = 20 (left: 4 20)\n4 + 20 = 24 (left: 24)\nAnswer: (5 * 6 - 10) + 4 = 24\n"
+        ],
+        "infos": [
+            {
+                "r": 1
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 28776,
+            "prompt_tokens": 18060,
+            "cost": 0.33291000000000004
+        },
+        "sum(accs)": 1,
+        "cnt_avg": 1.0,
+        "cnt_any": 1
+    },
+    {
+        "steps": [],
+        "total_time": 207.97220301628113,
+        "generate_time": 12.919384956359863,
+        "evaluate_time": 195.05037832260132,
+        "num_of_generations": 5,
+        "num_of_evaluations": 5,
+        "num_of_steps": 4,
+        "idx": 901,
+        "ys": [],
+        "infos": [],
+        "usage_so_far": {
+            "completion_tokens": 53047,
+            "prompt_tokens": 36232,
+            "cost": 0.62105
+        },
+        "sum(accs)": 0,
+        "cnt_avg": 1.0,
+        "cnt_any": 1
+    },
+    {
+        "steps": [],
+        "total_time": 185.40670776367188,
+        "generate_time": 11.330188274383545,
+        "evaluate_time": 174.0756311416626,
+        "num_of_generations": 4,
+        "num_of_evaluations": 4,
+        "num_of_steps": 4,
+        "idx": 902,
+        "ys": [],
+        "infos": [],
+        "usage_so_far": {
+            "completion_tokens": 76795,
+            "prompt_tokens": 52768,
+            "cost": 0.8998700000000001
+        },
+        "sum(accs)": 0,
+        "cnt_avg": 1.0,
+        "cnt_any": 1
+    },
+    {
+        "steps": [],
+        "total_time": 34.236490964889526,
+        "generate_time": 3.9600307941436768,
+        "evaluate_time": 30.276347875595093,
+        "num_of_generations": 1,
+        "num_of_evaluations": 1,
+        "num_of_steps": 4,
+        "idx": 903,
+        "ys": [],
+        "infos": [],
+        "usage_so_far": {
+            "completion_tokens": 81303,
+            "prompt_tokens": 55909,
+            "cost": 0.9528025
+        },
+        "sum(accs)": 0,
+        "cnt_avg": 1.0,
+        "cnt_any": 1
+    },
+    {
+        "steps": [],
+        "total_time": 406.90227603912354,
+        "generate_time": 27.081475973129272,
+        "evaluate_time": 379.81857085227966,
+        "num_of_generations": 6,
+        "num_of_evaluations": 6,
+        "num_of_steps": 4,
+        "idx": 904,
+        "ys": [],
+        "infos": [],
+        "usage_so_far": {
+            "completion_tokens": 139691,
+            "prompt_tokens": 89339,
+            "cost": 1.6202575000000001
+        },
+        "sum(accs)": 0,
+        "cnt_avg": 1.0,
+        "cnt_any": 1
+    },
+    {
+        "steps": [],
+        "total_time": 86.15828800201416,
+        "generate_time": 10.568880319595337,
+        "evaluate_time": 75.58873224258423,
+        "num_of_generations": 4,
+        "num_of_evaluations": 4,
+        "num_of_steps": 4,
+        "idx": 905,
+        "ys": [
+            "13 - 11 = 2 (left: 1 11 2)  \n1 + 11 = 12 (left: 2 12)\n2 * 12 = 24 (left: 24)\n\n"
+        ],
+        "infos": [
+            {
+                "r": 0
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 150667,
+            "prompt_tokens": 100227,
+            "cost": 1.7572375
+        },
+        "sum(accs)": 0,
+        "cnt_avg": 1.0,
+        "cnt_any": 1
+    },
+    {
+        "steps": [],
+        "total_time": 108.93338918685913,
+        "generate_time": 5.696475982666016,
+        "evaluate_time": 103.23460817337036,
+        "num_of_generations": 2,
+        "num_of_evaluations": 2,
+        "num_of_steps": 4,
+        "idx": 906,
+        "ys": [],
+        "infos": [],
+        "usage_so_far": {
+            "completion_tokens": 165249,
+            "prompt_tokens": 109054,
+            "cost": 1.925125
+        },
+        "sum(accs)": 0,
+        "cnt_avg": 1.0,
+        "cnt_any": 1
+    },
+    {
+        "steps": [],
+        "total_time": 69.4172101020813,
+        "generate_time": 5.354483127593994,
+        "evaluate_time": 64.05936098098755,
+        "num_of_generations": 2,
+        "num_of_evaluations": 2,
+        "num_of_steps": 4,
+        "idx": 907,
+        "ys": [],
+        "infos": [],
+        "usage_so_far": {
+            "completion_tokens": 174816,
+            "prompt_tokens": 116048,
+            "cost": 2.03828
+        },
+        "sum(accs)": 0,
+        "cnt_avg": 1.0,
+        "cnt_any": 1
+    },
+    {
+        "steps": [],
+        "total_time": 257.0680818557739,
+        "generate_time": 20.727949380874634,
+        "evaluate_time": 236.31164383888245,
+        "num_of_generations": 6,
+        "num_of_evaluations": 6,
+        "num_of_steps": 4,
+        "idx": 908,
+        "ys": [],
+        "infos": [],
+        "usage_so_far": {
+            "completion_tokens": 212574,
+            "prompt_tokens": 142848,
+            "cost": 2.48286
+        },
+        "sum(accs)": 0,
+        "cnt_avg": 1.0,
+        "cnt_any": 1
+    },
+    {
+        "steps": [],
+        "total_time": 97.25524306297302,
+        "generate_time": 8.13026213645935,
+        "evaluate_time": 89.12319326400757,
+        "num_of_generations": 2,
+        "num_of_evaluations": 2,
+        "num_of_steps": 4,
+        "idx": 909,
+        "ys": [],
+        "infos": [],
+        "usage_so_far": {
+            "completion_tokens": 228072,
+            "prompt_tokens": 152774,
+            "cost": 2.662655
+        },
+        "sum(accs)": 0,
+        "cnt_avg": 1.0,
+        "cnt_any": 1
+    },
+    {
+        "steps": [],
+        "total_time": 226.0182750225067,
+        "generate_time": 13.582257747650146,
+        "evaluate_time": 212.4200291633606,
+        "num_of_generations": 6,
+        "num_of_evaluations": 6,
+        "num_of_steps": 4,
+        "idx": 910,
+        "ys": [],
+        "infos": [],
+        "usage_so_far": {
+            "completion_tokens": 263323,
+            "prompt_tokens": 175176,
+            "cost": 3.0711699999999995
+        },
+        "sum(accs)": 0,
+        "cnt_avg": 1.0,
+        "cnt_any": 1
+    },
+    {
+        "steps": [],
+        "total_time": 148.1212887763977,
+        "generate_time": 14.922688722610474,
+        "evaluate_time": 133.1967372894287,
+        "num_of_generations": 4,
+        "num_of_evaluations": 4,
+        "num_of_steps": 4,
+        "idx": 911,
+        "ys": [],
+        "infos": [],
+        "usage_so_far": {
+            "completion_tokens": 285034,
+            "prompt_tokens": 191699,
+            "cost": 3.3295875
+        },
+        "sum(accs)": 0,
+        "cnt_avg": 1.0,
+        "cnt_any": 1
+    },
+    {
+        "steps": [],
+        "total_time": 87.06724619865417,
+        "generate_time": 7.3686439990997314,
+        "evaluate_time": 79.69804525375366,
+        "num_of_generations": 4,
+        "num_of_evaluations": 4,
+        "num_of_steps": 4,
+        "idx": 912,
+        "ys": [
+            "6 - 4 = 2 (left: 6 9 2)  \n9 * 2 = 18 (left: 6 18)\n18 + 6 = 24 (left: 24)\nAnswer: ((6 - 4) * 9) + 6 = 24\n"
+        ],
+        "infos": [
+            {
+                "r": 1
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 298174,
+            "prompt_tokens": 201496,
+            "cost": 3.48548
+        },
+        "sum(accs)": 1,
+        "cnt_avg": 2.0,
+        "cnt_any": 2
+    },
+    {
+        "steps": [],
+        "total_time": 120.81272602081299,
+        "generate_time": 8.949034690856934,
+        "evaluate_time": 111.86208605766296,
+        "num_of_generations": 4,
+        "num_of_evaluations": 4,
+        "num_of_steps": 4,
+        "idx": 913,
+        "ys": [],
+        "infos": [],
+        "usage_so_far": {
+            "completion_tokens": 317097,
+            "prompt_tokens": 218021,
+            "cost": 3.7160225000000002
+        },
+        "sum(accs)": 0,
+        "cnt_avg": 2.0,
+        "cnt_any": 2
+    },
+    {
+        "steps": [],
+        "total_time": 192.81584000587463,
+        "generate_time": 12.310309886932373,
+        "evaluate_time": 180.504163980484,
+        "num_of_generations": 5,
+        "num_of_evaluations": 5,
+        "num_of_steps": 4,
+        "idx": 914,
+        "ys": [],
+        "infos": [],
+        "usage_so_far": {
+            "completion_tokens": 349329,
+            "prompt_tokens": 236551,
+            "cost": 4.0846675
+        },
+        "sum(accs)": 0,
+        "cnt_avg": 2.0,
+        "cnt_any": 2
+    }
+]

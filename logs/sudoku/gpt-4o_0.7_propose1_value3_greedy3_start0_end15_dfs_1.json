@@ -1,0 +1,380 @@
+[
+    {
+        "steps": [],
+        "total_time": 45.476743936538696,
+        "generate_time": 12.65846872329712,
+        "evaluate_time": 32.81726288795471,
+        "num_of_generations": 6,
+        "num_of_evaluations": 6,
+        "num_of_steps": 6,
+        "idx": 0,
+        "ys": [
+            "[[1, *, *], [*, 1, *], [3, 2, *]]\n[[1, *, *], [2, 1, *], [3, 2, *]]\n[[1, 3, *], [2, 1, *], [3, 2, *]]\n[[1, 3, *], [2, 1, 3], [3, 2, *]]\n[[1, 3, 2], [2, 1, 3], [3, 2, *]]\n[[1, 3, 2], [2, 1, 3], [3, 2, 1]]\n"
+        ],
+        "infos": [
+            {
+                "r": 1
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 5896,
+            "prompt_tokens": 20536,
+            "cost": 0.1103
+        },
+        "sum(accs)": 1,
+        "cnt_avg": 1.0,
+        "cnt_any": 1
+    },
+    {
+        "steps": [],
+        "total_time": 42.24760174751282,
+        "generate_time": 11.195589542388916,
+        "evaluate_time": 31.051592588424683,
+        "num_of_generations": 6,
+        "num_of_evaluations": 6,
+        "num_of_steps": 6,
+        "idx": 1,
+        "ys": [
+            "[[*, *, 2], [2, 3, *], [1, *, *]]\n[[*, 1, 2], [2, 3, *], [1, *, *]]\n[[3, 1, 2], [2, 3, *], [1, *, *]]\n[[3, 1, 2], [2, 3, 1], [1, *, *]]\n[[3, 1, 2], [2, 3, 1], [1, 2, *]]\n[[3, 1, 2], [2, 3, 1], [1, 2, 3]]\n"
+        ],
+        "infos": [
+            {
+                "r": 1
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 11734,
+            "prompt_tokens": 38575,
+            "cost": 0.2137775
+        },
+        "sum(accs)": 1,
+        "cnt_avg": 2.0,
+        "cnt_any": 2
+    },
+    {
+        "steps": [],
+        "total_time": 5.949986934661865,
+        "generate_time": 1.4824399948120117,
+        "evaluate_time": 4.4674811363220215,
+        "num_of_generations": 1,
+        "num_of_evaluations": 1,
+        "num_of_steps": 4,
+        "idx": 2,
+        "ys": [],
+        "infos": [],
+        "usage_so_far": {
+            "completion_tokens": 12517,
+            "prompt_tokens": 42088,
+            "cost": 0.23039
+        },
+        "sum(accs)": 0,
+        "cnt_avg": 2.0,
+        "cnt_any": 2
+    },
+    {
+        "steps": [],
+        "total_time": 16.50428605079651,
+        "generate_time": 4.851834058761597,
+        "evaluate_time": 11.652153968811035,
+        "num_of_generations": 4,
+        "num_of_evaluations": 4,
+        "num_of_steps": 4,
+        "idx": 3,
+        "ys": [
+            "[[1, 3, 2], [*, 1, 3], [3, *, *]]\n[[1, 3, 2], [2, 1, 3], [3, *, *]]\n[[1, 3, 2], [2, 1, 3], [3, 2, *]]\n[[1, 3, 2], [2, 1, 3], [3, 2, 1]]\n"
+        ],
+        "infos": [
+            {
+                "r": 1
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 14635,
+            "prompt_tokens": 50644,
+            "cost": 0.27296
+        },
+        "sum(accs)": 1,
+        "cnt_avg": 3.0,
+        "cnt_any": 3
+    },
+    {
+        "steps": [],
+        "total_time": 28.174498081207275,
+        "generate_time": 6.441679000854492,
+        "evaluate_time": 21.73152780532837,
+        "num_of_generations": 5,
+        "num_of_evaluations": 5,
+        "num_of_steps": 5,
+        "idx": 4,
+        "ys": [
+            "[[3, 1, *], [1, 2, *], [*, *, 1]]\n[[3, 1, 2], [1, 2, *], [*, *, 1]]\n[[3, 1, 2], [1, 2, 3], [*, *, 1]]\n[[3, 1, 2], [1, 2, 3], [2, *, 1]]  \n[[3, 1, 2], [1, 2, 3], [2, 3, 1]]\n"
+        ],
+        "infos": [
+            {
+                "r": 1
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 18489,
+            "prompt_tokens": 63533,
+            "cost": 0.34372250000000004
+        },
+        "sum(accs)": 1,
+        "cnt_avg": 4.0,
+        "cnt_any": 4
+    },
+    {
+        "steps": [],
+        "total_time": 54.678921937942505,
+        "generate_time": 11.611382246017456,
+        "evaluate_time": 43.06634783744812,
+        "num_of_generations": 6,
+        "num_of_evaluations": 6,
+        "num_of_steps": 6,
+        "idx": 5,
+        "ys": [
+            "[[3, 1, *], [1, *, *], [*, *, 1]]\n[[3, 1, 2], [1, *, *], [*, *, 1]]  \n[[3, 1, 2], [1, *, 3], [*, *, 1]]  \n[[3, 1, 2], [1, *, 3], [2, *, 1]]  \n[[3, 1, 2], [1, 2, 3], [2, *, 1]]\n[[3, 1, 2], [1, 2, 3], [2, 3, 1]]\n"
+        ],
+        "infos": [
+            {
+                "r": 1
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 26040,
+            "prompt_tokens": 87341,
+            "cost": 0.4787525
+        },
+        "sum(accs)": 1,
+        "cnt_avg": 5.0,
+        "cnt_any": 5
+    },
+    {
+        "steps": [],
+        "total_time": 27.603230953216553,
+        "generate_time": 5.835525989532471,
+        "evaluate_time": 21.76737356185913,
+        "num_of_generations": 5,
+        "num_of_evaluations": 5,
+        "num_of_steps": 5,
+        "idx": 6,
+        "ys": [
+            "[[3, 1, 2], [1, *, *], [*, 3, *]]\n[[3, 1, 2], [1, 2, *], [*, 3, *]]\n[[3, 1, 2], [1, 2, *], [2, 3, *]]\n[[3, 1, 2], [1, 2, 3], [2, 3, *]]\n[[3, 1, 2], [1, 2, 3], [2, 3, 1]]\n"
+        ],
+        "infos": [
+            {
+                "r": 1
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 29793,
+            "prompt_tokens": 100241,
+            "cost": 0.5485325000000001
+        },
+        "sum(accs)": 1,
+        "cnt_avg": 6.0,
+        "cnt_any": 6
+    },
+    {
+        "steps": [],
+        "total_time": 25.365505933761597,
+        "generate_time": 6.838834762573242,
+        "evaluate_time": 18.526231050491333,
+        "num_of_generations": 5,
+        "num_of_evaluations": 5,
+        "num_of_steps": 5,
+        "idx": 7,
+        "ys": [
+            "[[*, 1, 3], [1, *, *], [*, 2, 1]]\n[[2, 1, 3], [1, *, *], [*, 2, 1]]\n[[2, 1, 3], [1, 3, *], [*, 2, 1]]\n[[2, 1, 3], [1, 3, 2], [*, 2, 1]]  \n[[2, 1, 3], [1, 3, 2], [3, 2, 1]]\n"
+        ],
+        "infos": [
+            {
+                "r": 1
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 33300,
+            "prompt_tokens": 113966,
+            "cost": 0.617915
+        },
+        "sum(accs)": 1,
+        "cnt_avg": 7.0,
+        "cnt_any": 7
+    },
+    {
+        "steps": [],
+        "total_time": 57.979130029678345,
+        "generate_time": 11.71950364112854,
+        "evaluate_time": 46.254650592803955,
+        "num_of_generations": 7,
+        "num_of_evaluations": 7,
+        "num_of_steps": 7,
+        "idx": 8,
+        "ys": [
+            "[[*, *, 2], [1, 2, *], [*, *, *]]\n[[*, *, 2], [1, 2, 3], [*, *, *]]\n[[*, 1, 2], [1, 2, 3], [*, *, *]]\n[[*, 1, 2], [1, 2, 3], [*, 3, *]]\n[[3, 1, 2], [1, 2, 3], [*, 3, *]]\n[[3, 1, 2], [1, 2, 3], [*, 3, 1]]\n[[3, 1, 2], [1, 2, 3], [2, 3, 1]]\n"
+        ],
+        "infos": [
+            {
+                "r": 1
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 41425,
+            "prompt_tokens": 142111,
+            "cost": 0.7695274999999999
+        },
+        "sum(accs)": 1,
+        "cnt_avg": 8.0,
+        "cnt_any": 8
+    },
+    {
+        "steps": [],
+        "total_time": 20.590528964996338,
+        "generate_time": 2.938969135284424,
+        "evaluate_time": 17.6513831615448,
+        "num_of_generations": 2,
+        "num_of_evaluations": 2,
+        "num_of_steps": 7,
+        "idx": 9,
+        "ys": [],
+        "infos": [],
+        "usage_so_far": {
+            "completion_tokens": 43600,
+            "prompt_tokens": 151566,
+            "cost": 0.8149150000000001
+        },
+        "sum(accs)": 0,
+        "cnt_avg": 8.0,
+        "cnt_any": 8
+    },
+    {
+        "steps": [],
+        "total_time": 160.87549591064453,
+        "generate_time": 39.0798454284668,
+        "evaluate_time": 121.78869986534119,
+        "num_of_generations": 19,
+        "num_of_evaluations": 19,
+        "num_of_steps": 7,
+        "idx": 10,
+        "ys": [
+            "[[2, *, 3], [*, *, *], [*, 3, *]]\n[[2, *, 3], [*, *, *], [1, 3, *]]  \n[[2, 1, 3], [*, *, *], [1, 3, *]]\n[[2, 1, 3], [*, 2, *], [1, 3, *]]\n[[2, 1, 3], [3, 2, *], [1, 3, *]]\n[[2, 1, 3], [3, 2, 1], [1, 3, *]]\n[[2, 1, 3], [3, 2, 1], [1, 3, 2]]\n"
+        ],
+        "infos": [
+            {
+                "r": 1
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 65720,
+            "prompt_tokens": 227590,
+            "cost": 1.226175
+        },
+        "sum(accs)": 1,
+        "cnt_avg": 9.0,
+        "cnt_any": 9
+    },
+    {
+        "steps": [],
+        "total_time": 97.2746970653534,
+        "generate_time": 21.554612159729004,
+        "evaluate_time": 75.71872043609619,
+        "num_of_generations": 8,
+        "num_of_evaluations": 8,
+        "num_of_steps": 8,
+        "idx": 11,
+        "ys": [
+            "[[3, 1, *], [*, *, *], [*, *, *]]  \n[[3, 1, *], [2, *, *], [*, *, *]]\n[[3, 1, *], [2, 3, *], [*, *, *]]\n[[3, 1, 2], [2, 3, *], [*, *, *]]\n[[3, 1, 2], [2, 3, 1], [*, *, *]]\n[[3, 1, 2], [2, 3, 1], [1, *, *]]\n[[3, 1, 2], [2, 3, 1], [1, 2, *]]\n[[3, 1, 2], [2, 3, 1], [1, 2, 3]]\n"
+        ],
+        "infos": [
+            {
+                "r": 1
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 80108,
+            "prompt_tokens": 266609,
+            "cost": 1.4676025
+        },
+        "sum(accs)": 1,
+        "cnt_avg": 10.0,
+        "cnt_any": 10
+    },
+    {
+        "steps": [],
+        "total_time": 159.67089104652405,
+        "generate_time": 32.526456117630005,
+        "evaluate_time": 127.13522291183472,
+        "num_of_generations": 18,
+        "num_of_evaluations": 18,
+        "num_of_steps": 8,
+        "idx": 12,
+        "ys": [
+            "[[1, 2, *], [*, *, *], [*, *, *]]\n[[1, 2, *], [*, 3, *], [*, *, *]]\n[[1, 2, *], [*, 3, *], [*, 1, *]]\n[[1, 2, *], [2, 3, *], [*, 1, *]]\n[[1, 2, *], [2, 3, *], [3, 1, *]]\n[[1, 2, 3], [2, 3, *], [3, 1, *]]\n[[1, 2, 3], [2, 3, 1], [3, 1, *]]  \n[[1, 2, 3], [2, 3, 1], [3, 1, 2]]\n"
+        ],
+        "infos": [
+            {
+                "r": 1
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 102238,
+            "prompt_tokens": 344088,
+            "cost": 1.8826
+        },
+        "sum(accs)": 1,
+        "cnt_avg": 11.0,
+        "cnt_any": 11
+    },
+    {
+        "steps": [],
+        "total_time": 81.72723889350891,
+        "generate_time": 14.065662860870361,
+        "evaluate_time": 67.66084027290344,
+        "num_of_generations": 8,
+        "num_of_evaluations": 8,
+        "num_of_steps": 8,
+        "idx": 13,
+        "ys": [
+            "[[2, 3, *], [*, *, *], [*, *, *]]\n[[2, 3, 1], [*, *, *], [*, *, *]]\n[[2, 3, 1], [*, 1, *], [*, *, *]]\n[[2, 3, 1], [3, 1, *], [*, *, *]]\n[[2, 3, 1], [3, 1, *], [1, *, *]]\n[[2, 3, 1], [3, 1, 2], [1, *, *]]  \n[[2, 3, 1], [3, 1, 2], [1, 2, *]]\n[[2, 3, 1], [3, 1, 2], [1, 2, 3]]\n"
+        ],
+        "infos": [
+            {
+                "r": 1
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 115331,
+            "prompt_tokens": 381489,
+            "cost": 2.1070325
+        },
+        "sum(accs)": 1,
+        "cnt_avg": 12.0,
+        "cnt_any": 12
+    },
+    {
+        "steps": [],
+        "total_time": 167.68246579170227,
+        "generate_time": 31.8471577167511,
+        "evaluate_time": 135.82753205299377,
+        "num_of_generations": 19,
+        "num_of_evaluations": 19,
+        "num_of_steps": 9,
+        "idx": 14,
+        "ys": [
+            "[[1, *, *], [*, *, *], [*, *, *]]\n[[1, 2, *], [*, *, *], [*, *, *]]\n[[1, 2, 3], [*, *, *], [*, *, *]]  \n[[1, 2, 3], [3, *, *], [*, *, *]]\n[[1, 2, 3], [3, *, *], [*, *, 1]]\n[[1, 2, 3], [3, 1, *], [*, *, 1]]\n[[1, 2, 3], [3, 1, 2], [*, *, 1]]  \n[[1, 2, 3], [3, 1, 2], [2, *, 1]]  \n[[1, 2, 3], [3, 1, 2], [2, 3, 1]]\n"
+        ],
+        "infos": [
+            {
+                "r": 1
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 137919,
+            "prompt_tokens": 457424,
+            "cost": 2.5227500000000003
+        },
+        "sum(accs)": 1,
+        "cnt_avg": 13.0,
+        "cnt_any": 13
+    }
+]
