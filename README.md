@@ -5,7 +5,7 @@ Title: Exploring Tree-of-thought Reasoning: A Comparative Study of BFS and DFS f
 Yizhi Liu (yl4993)
 
 Note:
-- This code extends the previous study on the Tree-of-Thought framework. Please see below.
+- This code extends the study on the Tree-of-Thought framework. Please see below.
 
 ## Tutorials
 
@@ -48,18 +48,6 @@ dfs.py
 bfs.py
 - full path: tree-of-thought-llm/src/tot/methods/bfs.py
 - An implementation of BFS traversal algorithm on tasks
-
-results.ipynb
-- full path: tree-of-thought-llm/results.ipynb
-- An analysis of the logged results
-
-run.sh
-- full path 1: tree-of-thought-llm/scripts/game24/run.sh
-- full path 2: tree-of-thought-llm/scripts/sudoku/run.sh
-- Commands to run the experiments
-
-
-
 
 
 # Official Repo of Tree of Thoughts (ToT)
